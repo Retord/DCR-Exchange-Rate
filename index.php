@@ -20,7 +20,7 @@ $DCRtoUSD = round( $DCRrate * $USDrate , 8 );
 <head lang="en">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Awesome input focus effects using css3 - usingcss3</title>
+<title>Decred Exchange Rate | Decred Live Converter</title>
 <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>
 
 <!-- CSS includes -->
